@@ -185,7 +185,7 @@ export default function KeshavLinktree() {
               color: 'white',
               letterSpacing: '0.5px'
             }}>
-              Keshav Srinivas M's Linktree
+              Keshav's Linktree
             </h1>
           </div>
         </div>
@@ -351,7 +351,7 @@ export default function KeshavLinktree() {
           color: '#aab7c4',
           fontSize: '14px'
         }}>
-          <p>© 2025 Keshav. Linktree</p>
+          <p>© 2025 Keshav's linktree</p>
         </div>
       </main>
     </div>
